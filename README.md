@@ -10,7 +10,7 @@ This project implements a Convolutional Neural Network (CNN) to classify music g
 **Dataset:**<br />
 The model is trained on the GTZAN dataset, which includes 10 genres: Blues, Classical, Country, Disco, Hip-Hop, Jazz, Metal, Pop, Reggae, and Rock.
 
-Installation & Usage<br/>
-Clone the repository:<br/>
+Installation & Usage<br/><br/>
+Clone the repository:<br/><br/>
 git clone https://github.com/averageshanks/Music-Genre-Prediction.git<br/>
 cd Music-Genre-Prediction
